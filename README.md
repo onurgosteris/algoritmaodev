@@ -1,2 +1,0 @@
-# algoritmaodev
-algoritma dersi ödevi
